@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alexandre Soffiatti
-- 👀 I’m interested in PHP, Java Script
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in PHP, Java Script, Dart and Flutter
+- 🌱 I’m currently learning Dart
 - 🕹️ My hobbies are playing video games and reading books 
