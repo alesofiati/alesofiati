@@ -21,7 +21,6 @@ Bem-vindo ao meu portfólio de desenvolvimento! Aqui você encontrará uma visã
 
 - **⚛️ React**
   - Criação de componentes funcionais e reutilizáveis
-  - Gerenciamento de estado com Redux
   - Hooks e otimização de desempenho
   - Navegação com React Router
 
