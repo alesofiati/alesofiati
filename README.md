@@ -1,47 +1,48 @@
-![GitHub followers](https://img.shields.io/github/followers/alexandre?style=social) ![GitHub stars](https://img.shields.io/github/stars/alexandre?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/alexandre/portfolio)
+<div align="center">
 
-Bem-vindo ao meu portfólio de desenvolvimento! Aqui você encontrará uma visão geral das minhas competências técnicas e projetos que refletem minha experiência e habilidades.
+# Olá, eu sou o Alexandre 👋
 
-## 🛠 Competências Técnicas
+Desenvolvedor Full Stack focado em **Laravel** e **React**, construindo APIs robustas e interfaces modernas.
+📍 Curitiba, Brasil &nbsp;·&nbsp; 💼 [uex.io](https://uex.io)
 
-### Backend
-- **🌐 Laravel**
-  - Desenvolvimento de APIs RESTful
-  - Autenticação e autorização de usuários
-  - Testes automatizados com PHPUnit
-  - Integração de serviços externos (ex: pagamentos, e-mails)
-  - Padrão MVC e Eloquent ORM
+![GitHub followers](https://img.shields.io/github/followers/alesofiati?style=social)
+![GitHub stars](https://img.shields.io/github/stars/alesofiati?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/alesofiati/spacecode.dev.br)
 
-### Frontend
-- **💻 JavaScript**
-  - Manipulação do DOM e eventos
-  - Desenvolvimento de interfaces interativas
-  - Integração com APIs REST
-  - Uso de bibliotecas como jQuery e frameworks como Vue.js
+</div>
 
-- **⚛️ React**
-  - Criação de componentes funcionais e reutilizáveis
-  - Hooks e otimização de desempenho
-  - Navegação com React Router
+---
 
-- **🅰️ Angular**
-  - Desenvolvimento de Single Page Applications (SPAs)
-  - Componentização e arquitetura modular
-  - Reactive Forms e validações complexas
-  - Guards de rotas e lazy loading
+## 🚀 Sobre mim
 
-### Banco de Dados
-- **💾 MySQL**
-  - Criação e otimização de queries SQL
-  - Design de banco de dados relacional
-  - Uso de índices, joins e transações
-  - Integração com ORMs como Eloquent
+Trabalho principalmente com **PHP/Laravel** no backend e **React/Angular** no frontend, com experiência em APIs RESTful, autenticação, bancos de dados relacionais e contêinerização com Docker. Gosto de projetos que unem código limpo a boa experiência de usuário.
 
-### Infraestrutura e DevOps
-- **🐳 Docker**
-  - Criação e gestão de ambientes com Docker Compose
-  - Contêinerização de aplicações (Laravel, Node.js)
-  - Deploy automatizado e CI/CD com Docker
-  - Gestão de ambientes multi-contêiner
+## 🛠 Stack principal
 
-Obrigado por visitar meu portfólio! Não se esqueça de dar uma olhada nos meus repositórios e, se gostou do que viu, fique à vontade para dar uma ⭐️ ou entrar em contato para colaborar em futuros projetos.
+`Laravel` `PHP` `React` `Angular` `MySQL` `Docker` `JavaScript`
+
+<details>
+<summary>Ver mais detalhes por área</summary>
+
+**Backend — Laravel**
+APIs RESTful, autenticação/autorização, testes com PHPUnit, integração com serviços externos (pagamentos, e-mail), MVC + Eloquent ORM.
+
+**Frontend — React, Angular, JavaScript**
+Componentes reutilizáveis e Hooks (React), SPAs com arquitetura modular e Reactive Forms (Angular), manipulação de DOM e integração com APIs REST.
+
+**Banco de Dados — MySQL**
+Modelagem relacional, otimização de queries, índices, joins e transações.
+
+**DevOps — Docker**
+Contêinerização de aplicações Laravel/Node.js, Docker Compose, deploy e CI/CD.
+
+</details>
+
+## 📌 Projetos em destaque
+
+- **[spacecode.dev.br](https://github.com/alesofiati/spacecode.dev.br)** — descrição curta do que o projeto faz e qual problema resolve.
+- *(adicione aqui mais 2-3 repositórios que fixar no perfil)*
+
+## 📫 Contato
+
+Fique à vontade para abrir uma issue, dar uma ⭐️ em algum repositório ou me chamar para colaborar em projetos.
