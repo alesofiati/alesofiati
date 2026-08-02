@@ -2,8 +2,8 @@
 
 # Olá, eu sou o Alexandre 👋
 
-Desenvolvedor Full Stack focado em **Laravel** e **React**, construindo APIs robustas e interfaces modernas.
-📍 Curitiba, Brasil &nbsp;·&nbsp; 💼 [uex.io](https://uex.io)
+Líder Técnico & Desenvolvedor Full Stack · 7+ anos construindo sistemas de produção (ERP, CRM)
+📍 Curitiba, Brasil &nbsp;·&nbsp; 💼 [UEX Tecnologia](https://uex.io) &nbsp;·&nbsp; 🌐 [alexandresoffiatti.dev.br](https://alexandresoffiatti.dev.br/)
 
 ![GitHub followers](https://img.shields.io/github/followers/alesofiati?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/alesofiati?style=social)
@@ -15,17 +15,21 @@ Desenvolvedor Full Stack focado em **Laravel** e **React**, construindo APIs rob
 
 ## 🚀 Sobre mim
 
-Trabalho principalmente com **PHP/Laravel** no backend e **React/Angular** no frontend, com experiência em APIs RESTful, autenticação, bancos de dados relacionais e contêinerização com Docker. Gosto de projetos que unem código limpo a boa experiência de usuário.
+Desenvolvedor Full Stack há mais de 7 anos, hoje atuando como **líder técnico** na UEX Tecnologia — definindo arquitetura, padrões de código e decisões técnicas do time em um ERP em produção (BS8) e anteriormente em um CRM para a área de saúde (S2 Médica). Base sólida em **PHP/Laravel** no backend e **React/Angular** no frontend.
+
+> "Talk is cheap. Show me the code." — Linus Torvalds
+
+📄 Currículo completo com detalhes de cada projeto e experiência: **[alexandresoffiatti.dev.br](https://alexandresoffiatti.dev.br/)**
 
 ## 🛠 Stack principal
 
-`Laravel` `PHP` `React` `Angular` `MySQL` `Docker` `JavaScript`
+`Laravel` `PHP` `Node.js` `React` `Angular` `MySQL` `Docker` `AWS`
 
 <details>
 <summary>Ver mais detalhes por área</summary>
 
-**Backend — Laravel**
-APIs RESTful, autenticação/autorização, testes com PHPUnit, integração com serviços externos (pagamentos, e-mail), MVC + Eloquent ORM.
+**Backend — Laravel / PHP / Node.js**
+APIs RESTful, autenticação/autorização, testes com PHPUnit, integração com serviços externos (pagamentos, e-mail), MVC + Eloquent ORM, Lambda Functions & API Gateway (AWS).
 
 **Frontend — React, Angular, JavaScript**
 Componentes reutilizáveis e Hooks (React), SPAs com arquitetura modular e Reactive Forms (Angular), manipulação de DOM e integração com APIs REST.
@@ -33,16 +37,20 @@ Componentes reutilizáveis e Hooks (React), SPAs com arquitetura modular e React
 **Banco de Dados — MySQL**
 Modelagem relacional, otimização de queries, índices, joins e transações.
 
-**DevOps — Docker**
-Contêinerização de aplicações Laravel/Node.js, Docker Compose, deploy e CI/CD.
+**DevOps — Docker / AWS**
+Contêinerização de aplicações Laravel/Node.js, Docker Compose, deploy e CI/CD, Lambda & API Gateway.
 
 </details>
 
 ## 📌 Projetos em destaque
 
 - **[spacecode.dev.br](https://github.com/alesofiati/spacecode.dev.br)** — descrição curta do que o projeto faz e qual problema resolve.
-- *(adicione aqui mais 2-3 repositórios que fixar no perfil)*
+- **[alexandresoffiatti.dev.br](https://alexandresoffiatti.dev.br/)** — site de currículo/portfólio profissional, com histórico completo de experiência e projetos.
+- *(adicione aqui mais 1-2 repositórios que fixar no perfil)*
 
 ## 📫 Contato
 
-Fique à vontade para abrir uma issue, dar uma ⭐️ em algum repositório ou me chamar para colaborar em projetos.
+- 💼 LinkedIn: [linkedin.com/in/alesofiati](https://br.linkedin.com/in/alesofiati)
+- 🌐 Portfólio: [alexandresoffiatti.dev.br](https://alexandresoffiatti.dev.br/)
+
+Fique à vontade para abrir uma issue, dar uma ⭐️ em algum repositório ou me chamar para colaborar em futuros projetos.
